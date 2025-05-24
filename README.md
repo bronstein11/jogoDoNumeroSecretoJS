@@ -2,6 +2,12 @@
 
 Um jogo interativo desenvolvido em JavaScript onde o jogador deve adivinhar um número secreto entre 1 e 10. O jogo inclui recursos de acessibilidade com síntese de voz e feedback dinâmico para o usuário.
 
+## 🌐 Demo Online
+
+**[🎮 Jogar Agora](https://jogo-do-numero-secreto-js-three.vercel.app)**
+
+Experimente o jogo diretamente no seu navegador através do link acima!
+
 ## 🎮 Como Jogar
 
 1. O sistema gera aleatoriamente um número secreto entre 1 e 10
@@ -70,6 +76,25 @@ Para usar este projeto, você precisará:
 
 3. Incluir o arquivo JavaScript com o código do jogo
 
+## 🚀 Deploy
+
+O projeto está hospedado no Vercel e pode ser acessado através do link: https://jogo-do-numero-secreto-js-three.vercel.app
+
+### Como fazer seu próprio deploy
+
+1. Faça fork do repositório
+2. Conecte sua conta do Vercel ao GitHub
+3. Importe o projeto no Vercel
+4. O deploy será feito automaticamente a cada push na branch main
+
+## 🚀 Possíveis Melhorias
+
+- Adicionar diferentes níveis de dificuldade
+- Implementar sistema de pontuação
+- Salvar recordes do jogador
+- Adicionar animações visuais
+- Criar modo multijogador
+- Adicionar temas visuais personalizáveis
 
 ## 📱 Acessibilidade
 
@@ -80,10 +105,5 @@ O jogo foi desenvolvido com foco na acessibilidade, incluindo:
 - Suporte para usuários com deficiência visual
 
 ---
-
-## 🙋🏻 Autor 
-
-- Desenvolvido por Mauricio Grass de Bronstein
-
 
 Divirta-se jogando e testando sua intuição para descobrir o número secreto! 🎉
